@@ -1,0 +1,1 @@
+import{mb as e}from"./chunk-EG5ORV3B.js";import"./chunk-VB56BUGO.js";var o=class n{static \u0275fac=function(t){return new(t||n)};static \u0275cmp=e({type:n,selectors:[["app-position-container"]],decls:0,vars:0,template:function(t,p){},encapsulation:2})};var c=[{path:"",component:o}];export{c as POSITION_ROUTES};
