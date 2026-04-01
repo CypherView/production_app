@@ -1,0 +1,1 @@
+import{mb as t}from"./chunk-FMHZWV76.js";import"./chunk-VB56BUGO.js";var e=class n{static \u0275fac=function(o){return new(o||n)};static \u0275cmp=t({type:n,selectors:[["app-media-container"]],decls:0,vars:0,template:function(o,i){},encapsulation:2})};var c=[{path:"",component:e}];export{c as MEDIA_ROUTES};
