@@ -1,0 +1,1 @@
+import{mb as e}from"./chunk-Z5Z2PDTN.js";import"./chunk-VB56BUGO.js";var o=class t{static \u0275fac=function(n){return new(n||t)};static \u0275cmp=e({type:t,selectors:[["app-history-container"]],decls:0,vars:0,template:function(n,i){},encapsulation:2})};var c=[{path:"",component:o}];export{c as HISTORY_ROUTES};
