@@ -1,0 +1,1 @@
+import{qb as o}from"./chunk-5SRT5K2O.js";import"./chunk-VB56BUGO.js";var e=class t{static \u0275fac=function(n){return new(n||t)};static \u0275cmp=o({type:t,selectors:[["app-alert-container"]],decls:0,vars:0,template:function(n,a){},encapsulation:2})};var c=[{path:"",component:e}];export{c as ALERTS_ROUTES};
